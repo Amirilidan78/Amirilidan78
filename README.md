@@ -4,23 +4,13 @@
 - 📫 Reach me on telegram https://t.me/AmirRanjbar_78
 
 ### Programming Langues 
-- Golang 
-- Php
-- Js 
-- Python
-- Dart 
+- Golang, Php, Js, Python, Dart
 
 ### Frameworks 
-- Laravel 
-- Nuxt js 
-- Docker
-- EMQTT
-- Node js 
-- Flutter
+- Laravel, Nuxt js, Docker, EMQTT, Node js, Flutter
 
 ### Interest 
-- Crypto
-- Internet of things
+- Crypto and Internet of things
 
 <!---
 Amirilidan78/Amirilidan78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
